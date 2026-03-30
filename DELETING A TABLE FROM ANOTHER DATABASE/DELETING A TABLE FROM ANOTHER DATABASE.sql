@@ -1,0 +1,1 @@
+DROP TABLE sakila.dbo.film_text;
